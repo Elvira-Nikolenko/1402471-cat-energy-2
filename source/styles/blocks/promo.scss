@@ -1,0 +1,25 @@
+.promo {
+  background-color: #68b738;
+  font-family: $secondary-font;
+  color: #ffffff;
+}
+
+
+.promo__tagline {
+  font-size: 36px;
+  line-height: 36px;
+}
+
+.promo__text {
+  font-size: 14px;
+  line-height: 14px;
+  text-transform: uppercase;
+}
+
+.promo__button {
+  font-size: 16px;
+  line-height: 20px;
+  color: #ffffff;
+  text-transform: uppercase;
+  text-decoration: none;
+}
