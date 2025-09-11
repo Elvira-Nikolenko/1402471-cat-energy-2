@@ -1,1 +1,0 @@
-var t=document.querySelector(".main-nav"),e=document.querySelector(".logo__toggle");function o(){t.classList.toggle("main-nav--open"),e.classList.toggle("logo__toggle--active")}e.addEventListener("click",o);
